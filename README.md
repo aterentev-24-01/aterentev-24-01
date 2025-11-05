@@ -1,4 +1,6 @@
-## Hi there 👋
+## Привет, я Артем👋
+## Я студент 
+
 
 <!--
 **aterentev-24-01/aterentev-24-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
